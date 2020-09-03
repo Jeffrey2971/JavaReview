@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h00SfXGeT6EFYj4yA3OJrIu8dx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data/Note" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.097751714" />
+    <property name="project.structure.side.proportion" value="0.3894189" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data/Note" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_入门_01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_入门_01" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="" />
+      <created>1599132708032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599132708032</updated>
+      <workItem from="1599132711262" duration="12391000" />
+      <workItem from="1599148014464" duration="97000" />
+      <workItem from="1599148145420" duration="359000" />
+    </task>
+    <task id="LOCAL-00001" summary="JavaReview">
+      <created>1599136997441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599136997441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaReview">
+      <created>1599138413026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599138413026</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JavaReview">
+      <created>1599138417944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599138417944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JavaReview">
+      <created>1599142228979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599142228979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JavaReview">
+      <created>1599142488500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599142488500</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JavaReview">
+      <created>1599143332374</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599143332374</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JavaReview">
+      <created>1599143465591</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599143465591</updated>
+    </task>
+    <task id="LOCAL-00008" summary="JavaReview">
+      <created>1599143507890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599143507890</updated>
+    </task>
+    <task id="LOCAL-00009" summary="JavaReview">
+      <created>1599144126736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144126736</updated>
+    </task>
+    <task id="LOCAL-00010" summary="JavaReview">
+      <created>1599144299649</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144299649</updated>
+    </task>
+    <task id="LOCAL-00011" summary="JavaReview">
+      <created>1599147153418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599147153418</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JavaReview">
+      <created>1599147275378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599147275378</updated>
+    </task>
+    <task id="LOCAL-00013" summary="JavaReview">
+      <created>1599147459735</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599147459735</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="JavaReview" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaReview" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="40" width="1024" height="845" key="#Project_Structure" timestamp="1599133504446">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="203" y="40" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599133504446" />
+    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl" timestamp="1599133432930">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl/0.27.1440.873@0.27.1440.873" timestamp="1599133432930" />
+    <state x="566" y="357" width="308" height="303" key="Github.ShareDialog" timestamp="1599148507386">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="566" y="357" width="308" height="303" key="Github.ShareDialog/0.27.1440.873@0.27.1440.873" timestamp="1599148507386" />
+    <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog" timestamp="1599134201395">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599134201395" />
+    <state x="13" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599148174901">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599148174901" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599147472169">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599147472169" />
+    <state x="472" y="351" width="486" height="223" key="git4idea.ui.GitResetDialog" timestamp="1599147372964">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="472" y="351" width="486" height="223" key="git4idea.ui.GitResetDialog/0.27.1440.873@0.27.1440.873" timestamp="1599147372964" />
+    <state x="693" y="27" width="747" height="873" key="new project wizard" timestamp="1599138537830">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="693" y="27" width="747" height="873" key="new project wizard/0.27.1440.873@0.27.1440.873" timestamp="1599138537830" />
+  </component>
+</project>
