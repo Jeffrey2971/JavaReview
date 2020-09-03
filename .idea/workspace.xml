@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,7 @@
       <workItem from="1599132711262" duration="12391000" />
       <workItem from="1599148014464" duration="97000" />
       <workItem from="1599148145420" duration="359000" />
-      <workItem from="1599148880755" duration="1612000" />
+      <workItem from="1599148880755" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="JavaReview">
       <created>1599136997441</created>
@@ -284,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599149889570</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="JavaReview">
+      <created>1599153621477</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599153621477</updated>
+    </task>
+    <task id="LOCAL-00025" summary="JavaReview">
+      <created>1599153661685</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599153661685</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,10 +344,10 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599148174901" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599149895555">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599153680632">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599149895555" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599153680632" />
     <state x="472" y="351" width="486" height="223" key="git4idea.ui.GitResetDialog" timestamp="1599147372964">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
