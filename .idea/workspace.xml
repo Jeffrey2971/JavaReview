@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,7 @@
       <workItem from="1599132711262" duration="12391000" />
       <workItem from="1599148014464" duration="97000" />
       <workItem from="1599148145420" duration="359000" />
-      <workItem from="1599148880755" duration="11305000" />
+      <workItem from="1599148880755" duration="12522000" />
     </task>
     <task id="LOCAL-00001" summary="JavaReview">
       <created>1599136997441</created>
@@ -397,7 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599216757862</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="JavaReview">
+      <created>1599221617967</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1599221617967</updated>
+    </task>
+    <task id="LOCAL-00041" summary="JavaReview">
+      <created>1599226491468</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1599226491468</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,10 +460,10 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599201334059" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599216760650">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599226494261">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599216760650" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599226494261" />
     <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
