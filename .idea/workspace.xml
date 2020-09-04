@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview" />
+    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +40,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Data/Note" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.097751714" />
     <property name="project.structure.side.proportion" value="0.3894189" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,7 +122,7 @@
       <workItem from="1599132711262" duration="12391000" />
       <workItem from="1599148014464" duration="97000" />
       <workItem from="1599148145420" duration="359000" />
-      <workItem from="1599148880755" duration="2555000" />
+      <workItem from="1599148880755" duration="10635000" />
     </task>
     <task id="LOCAL-00001" summary="JavaReview">
       <created>1599136997441</created>
@@ -352,7 +355,42 @@
       <option name="project" value="LOCAL" />
       <updated>1599154392850</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="JavaReview">
+      <created>1599154452633</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154452633</updated>
+    </task>
+    <task id="LOCAL-00035" summary="JavaReview">
+      <created>1599154520964</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154520964</updated>
+    </task>
+    <task id="LOCAL-00036" summary="JavaReview">
+      <created>1599154562137</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154562137</updated>
+    </task>
+    <task id="LOCAL-00037" summary="JavaReview">
+      <created>1599154632011</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154632011</updated>
+    </task>
+    <task id="LOCAL-00038" summary="JavaReview">
+      <created>1599154677171</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1599154677171</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,14 +434,14 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599134201395" />
-    <state x="13" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599148174901">
+    <state x="13" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599201334059">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599148174901" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599154403830">
+    <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599201334059" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599154683063">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599154403830" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599154683063" />
     <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
