@@ -203,6 +203,18 @@
 
 ## 6、HelloWorld
 
+- 新建名为 helloWorld 的 java 文件并编写以下代码
+
+  - ```java
+    public class helloWorld{
+    	public static void main(String[] args){
+    	System.out.println("HelloWorld!");
+    	}
+    }
+    ```
+
+  - 
+
 ## 7、常见问题及解决方法呢
 
 ## 8、注解（Comment）
