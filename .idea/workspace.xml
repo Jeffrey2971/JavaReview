@@ -11,13 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
+      <change afterPath="$PROJECT_DIR$/Java_IO流与网络编程_16/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1h00SfXGeT6EFYj4yA3OJrIu8dx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -40,9 +51,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data/Note" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.097751714" />
     <property name="project.structure.side.proportion" value="0.3894189" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -52,14 +63,17 @@
       <recent name="$PROJECT_DIR$/Data/Note" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloWorld" />
+      <module name="Java_入门_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Java_IO流与网络编程_16" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,6 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.helloWorld" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -123,7 +143,11 @@
       <workItem from="1599132711262" duration="12391000" />
       <workItem from="1599148014464" duration="97000" />
       <workItem from="1599148145420" duration="359000" />
-      <workItem from="1599148880755" duration="12522000" />
+      <workItem from="1599148880755" duration="14808000" />
+      <workItem from="1599242702766" duration="333000" />
+      <workItem from="1599243049664" duration="576000" />
+      <workItem from="1599243628852" duration="2233000" />
+      <workItem from="1599307916687" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="JavaReview">
       <created>1599136997441</created>
@@ -412,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599226491468</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="JavaReview">
+      <created>1599237832579</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1599237832579</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,14 +471,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="JavaReview" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="203" y="40" width="1024" height="845" key="#Project_Structure" timestamp="1599133504446">
+    <state x="192" y="27" width="1024" height="845" key="#Project_Structure" timestamp="1599243475515">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="203" y="40" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599133504446" />
-    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl" timestamp="1599133432930">
+    <state x="192" y="27" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599243475515" />
+    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl" timestamp="1599245883984">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl/0.27.1440.873@0.27.1440.873" timestamp="1599133432930" />
+    <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl/0.27.1440.873@0.27.1440.873" timestamp="1599245883984" />
     <state x="566" y="357" width="308" height="303" key="Github.ShareDialog" timestamp="1599148507386">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -456,14 +487,18 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599134201395" />
-    <state x="13" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599201334059">
+    <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog" timestamp="1599243014621">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="13" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599201334059" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599226494261">
+    <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog/0.27.1440.873@0.27.1440.873" timestamp="1599243014621" />
+    <state x="101" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599247243597">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599226494261" />
+    <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599247243597" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599237836937">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599237836937" />
     <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -476,5 +511,9 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="693" y="27" width="747" height="873" key="new project wizard/0.27.1440.873@0.27.1440.873" timestamp="1599138537830" />
+    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1599242464747">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup/0.27.1440.873@0.27.1440.873" timestamp="1599242464747" />
   </component>
 </project>

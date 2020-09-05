@@ -143,9 +143,65 @@
 
 ## 5、Java 的环境搭建
 
-### - 
+### 1、什么是 JDK，JRE，JVM
 
-## 6、开发体验：HelloWorld
+- JDK（Java 开发工具包）
+  - JDK 是提供给 Java 开发人员使用的，其中包含了 Java 的开发工具，其中包括了 JRE。所以，只要安装了 JDK ，就不需要单独安装 JRE 了
+  - 其中的开发工具：编译工具（javac.exe），打包工具（jar.exe）
+
+- JRE（Java 运行环境）
+  - 包括 Java 虚拟机和 Java 程序所需要的核心类库等，如果想要运行一个开发好的 Java 程序，计算机只需要安装 JRE 即可
+- JVM（Java 虚拟机）
+  - JVM 即 Java 虚拟机，它主要的功能就是将编译好的 class 文件进行解释执行，因为 class 文件不能由操作系统直接执行，所以需要 JVM 解释执行，这也是 Java 语言跨平台的重要组件
+- 简单而言，使用 JDK 的开发工具完成 Java 程序后交给 JRE 运行
+  - JDK = JRE + 开发工具集（例如 javac 编译工具等等）
+  - JRE = JVM + JAVA SE 标准类库
+  - ![1599238304109](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599238304109.png)
+- 官网解释
+  - ![1599238821367](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599238821367.png)
+
+### 2、下载并安装 JDK
+
+- 官方网址
+  - [下载地址1](http://orcale.com)
+  - [下载地址2](https://java.sun.com)
+
+- 安装 JDK
+
+  - 注意事项：安装路径中为避免不必要的错误最好不要含有中文空格等特殊符号
+  - 如果操作系统是 64 位的，软件最好选择 64位的，除非软件本身不区分
+  - 当提示安装 JRE 时，正常在 JDK 安装时已经装过了，但是为了后续使用 IDE 开发工具时不报错，最好也按照提示安装 JRE
+
+- 环境配置（Linux 系统中）
+
+  - vim ./.bashrc
+
+  - 粘入以下内容
+
+    - ```shell
+      # JDK for 8
+      # export JAVA_HOME=/usr/local/jdk1.8.0_241
+      # export JRE_HOME=${JAVA_HOME}/jre
+      # export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+      # export PATH=${JAVA_HOME}/bin:$PATH
+      
+      # JDK for 9
+      export JAVA_HOME=/usr/local/jdk-9
+      export JRE_HOME=${JAVA_HOME}/jre
+      export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+      export PATH=${JAVA_HOME}/bin:$PATH
+      
+      # JDK for 14
+      # export JAVA_HOME=/usr/local/jdk14
+      # export JRE_HOME=${JAVA_HOME}/jre
+      # export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
+      # export PATH=${JAVA_HOME}/bin:$PATH
+      # export PATH="/usr/local/jdk-14/bin/:$PATH"
+      ```
+
+  - source ./.bashrc
+
+## 6、HelloWorld
 
 ## 7、常见问题及解决方法呢
 
