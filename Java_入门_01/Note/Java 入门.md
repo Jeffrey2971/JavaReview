@@ -229,35 +229,127 @@
 
 ## 8、注解（Comment）
 
-- 单行注释：可以在任意一行代码上使用 // 表示单行注释，在 // 后的所有内容都不会被执行
+- 单行注释：可以在任意一行代码上使用 // 表示单行注释，在 // 后的所有内容都不会被 JVM 所解释执行
 
+  - 格式
+
+    - ```java
+      // 注释内容
+      ```
+
+  - 例子
+
+    - ```java
+      class helloWorld{
+          public static void main(String[] args){
+              System.out.print("Hello,World!");  // 我的第一个 Java 程序
+          }
+      }
+      ```
+
+- 多行注释：可以在任意一处地方使用 /** 注释内容 **/ 表示多行注释，在期间的所有内容都不会被 JVM 所解释执行
+
+  - 格式
+  
+    - ```java
+    /**
+      	注释内容
+      **/
+      ```
+    
+  - 例子
+  
   - ```java
     class helloWorld{
         public static void main(String[] args){
-            System.out.print("Hello,World!"); // 我的第一个 Java 程序
+              System.out.print("Hello,");
+              /**
+              	我的第一个 Java 程序
+              **/
+              System.out.print("World!")
+          }
+      }
+    ```
+
+- 文档注释（Java 特有），注释的内容可以被 jdk 提供的工具 javadoc *所解析并生成一套以网页文件形式的改程序的说明文档*
+
+  - 格式
+
+    - ```java
+      /**
+      	@author 指定 Java 程序的作者
+      	@version 制定源文件的版本
+      	...
+      **/
+      ```
+
+  - 例子
+
+    - ```java
+      /**
+      	@author 指定 Java 程序的作者
+      	@version 制定源文件的版本
+      **/
+      class helloWorld{
+          public static void main(String[] args){
+              System.out.print("Hello,World!")
+          }
+      }
+      ```
+
+## 9、Java API 文档
+
+- API（应用程序编程入口），是 Java 提供的基本编程接口
+- Java 语言提供了大量的基础类，因此 Oracle 也为了这些基础类提供了相对应的 API 文档，用于告诉开发者如何使用这些类，以及这些类里面包含的方法
+- [Jdk API 文档下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- 页面分布
+  - ![1599417000579](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599417000579.png)
+
+## 10、HelloWorld 总结
+
+- 1、Java 程序是一个编写 -> 编译 -> 运行的过程
+
+  - 编写：将编写的 Java 代码保存在以 .java 结尾的源文件中
+  - 编译：使用 jdk 中的开发工具 javac 来编译 java 的源文件从而生成以类名为名称的字节码文件，格式为： javac 原文件名.java
+  - 运行：使用 jdk 中的开发工具 java.exe 来运行字节码文件，格式为： java 类名
+
+- 2、在一个 Java 源文件中可以声明多个 class 类，但是最多只能有一个类被声明为 public 而且要求声明 public 的类名必须与原文件名相同，否则会在编译是报错
+
+  - ```java
+    public class HelloWorld{
+        public static void main(String arguments[]){
+            System.println("HelloWorld");
+        }
+        
+        class Person{
+            
+        }
+        
+        class Animal{
+            
         }
     }
     ```
 
   - 
 
-- 多行注释：可以在任意一处地方使用 /** 注释内容 **/ 表示多行注释，在期间的所有内容都不会被执行
+- 3、程序的入口是 main() 方法，格式是固定的，其中变量名称（args）可以更改和和 String 后面的中括号可以更换到变量名称后的位置，其他参数都需要严格书写
 
   - ```java
-    class helloWorld{
-        public static void main(String[] args){
-            System.out.print("Hello,");
-            /**
-            	我的第一个 Java 程序
-            **/
-            System.out.print("World!")
-        }
+    public static void main(String arguments[]){
+        // ...
     }
-```
-    
+    ```
 
-## 9、Java API 文档
+- 4、较为常用的输出语句，println() 表示输出括号内的内容后换行，print() 表示不换行
 
-## 10、良好的编程风格
+  - System.out.println(); // 先输出数据，然后换行
+  - System.out.print(); // 只输出数据
 
-## 11、常用的 Java 开发工具	
+- 5、每一个执行语句的尾部都 " ; " 分号结束
+
+- 6、编译的过程：在多个 class 类的情况下，编译时会生成一个或多个字节码文件，字节码文件的文件名与 java 原文件中的类名相同，生成几个取决于 java 原文件中有几个 class 类
+
+## 11、良好的编程风格
+
+## 12、常用的 Java 开发工具	
