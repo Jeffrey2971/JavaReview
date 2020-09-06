@@ -213,7 +213,17 @@
     }
     ```
 
-  - 
+- 在命令行中，使用 jdk 工具包中的 javac 编译以上写好的 Java 文件
+
+  - ```shell
+    javac helloWorld.java
+    ```
+
+- 执行完以上命令之后会发现在文件夹下自动生成了 helloWorld.class 文件
+
+  - ![1599325561292](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599325561292.png)
+
+- 
 
 ## 7、常见问题及解决方法呢
 
