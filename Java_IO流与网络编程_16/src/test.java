@@ -6,6 +6,10 @@
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("HelloWorld");
+        System.out.print("hello,");
+        /**
+         * 我的第一个 Java 程序
+         */
+        System.out.println("World!");
     }
 }

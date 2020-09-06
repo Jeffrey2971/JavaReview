@@ -229,12 +229,34 @@
 
 ## 8、注解（Comment）
 
-- 单行注释
-- 多行注释
+- 单行注释：可以在任意一行代码上使用 // 表示单行注释，在 // 后的所有内容都不会被执行
+
+  - ```java
+    class helloWorld{
+        public static void main(String[] args){
+            System.out.print("Hello,World!"); // 我的第一个 Java 程序
+        }
+    }
+    ```
+
+  - 
+
+- 多行注释：可以在任意一处地方使用 /** 注释内容 **/ 表示多行注释，在期间的所有内容都不会被执行
+
+  - ```java
+    class helloWorld{
+        public static void main(String[] args){
+            System.out.print("Hello,");
+            /**
+            	我的第一个 Java 程序
+            **/
+            System.out.print("World!")
+        }
+    }
+```
+    
 
 ## 9、Java API 文档
-
-- 如何使用 Java API 文档
 
 ## 10、良好的编程风格
 
