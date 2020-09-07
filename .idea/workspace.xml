@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" afterDir="false" />
-    </list>
+    <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,35 +156,7 @@
       <workItem from="1599404372229" duration="1243000" />
       <workItem from="1599407649206" duration="9352000" />
       <workItem from="1599488885512" duration="128000" />
-      <workItem from="1599489070980" duration="1021000" />
-    </task>
-    <task id="LOCAL-00005" summary="JavaReview">
-      <created>1599142488500</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1599142488500</updated>
-    </task>
-    <task id="LOCAL-00006" summary="JavaReview">
-      <created>1599143332374</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1599143332374</updated>
-    </task>
-    <task id="LOCAL-00007" summary="JavaReview">
-      <created>1599143465591</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1599143465591</updated>
-    </task>
-    <task id="LOCAL-00008" summary="JavaReview">
-      <created>1599143507890</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1599143507890</updated>
+      <workItem from="1599489070980" duration="1326000" />
     </task>
     <task id="LOCAL-00009" summary="JavaReview">
       <created>1599144126736</created>
@@ -504,7 +473,35 @@
       <option name="project" value="LOCAL" />
       <updated>1599490141691</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="JavaReview">
+      <created>1599490364883</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490364883</updated>
+    </task>
+    <task id="LOCAL-00055" summary="JavaReview">
+      <created>1599490527193</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490527193</updated>
+    </task>
+    <task id="LOCAL-00056" summary="JavaReview">
+      <created>1599490579351</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490579351</updated>
+    </task>
+    <task id="LOCAL-00057" summary="JavaReview">
+      <created>1599490606449</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490606449</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
