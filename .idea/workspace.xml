@@ -11,24 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_入门_01/src/chairMan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_IO流与网络编程_16/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599216679243.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599217399882.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599220279171.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599223772366.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599226679925.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599226977214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599238304109.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599238821367.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599325561292.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599417000579.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/src/helloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IO流与网络编程_16/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,14 +157,7 @@
       <workItem from="1599403425815" duration="219000" />
       <workItem from="1599404097345" duration="220000" />
       <workItem from="1599404372229" duration="1243000" />
-      <workItem from="1599407649206" duration="7473000" />
-    </task>
-    <task id="LOCAL-00001" summary="JavaReview">
-      <created>1599136997441</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1599136997441</updated>
+      <workItem from="1599407649206" duration="9041000" />
     </task>
     <task id="LOCAL-00002" summary="JavaReview">
       <created>1599138413026</created>
@@ -511,7 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599418958122</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="JavaReview">
+      <created>1599469942313</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1599469942313</updated>
+    </task>
+    <task id="LOCAL-00050" summary="JavaReview">
+      <created>1599470043816</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1599470043817</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,10 +574,14 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599469529730" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599418960955">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599470047439">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599418960955" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599470047439" />
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599470226175">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1440.873@0.27.1440.873" timestamp="1599470226175" />
     <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
       <screen x="0" y="27" width="1440" height="873" />
     </state>

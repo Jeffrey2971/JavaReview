@@ -13,6 +13,11 @@
     - 这种方式简单直观，使用者十分方便，容易上手操作
   - 命令行方式
     - 需要一个控制台，输入一些特定的命令，让计算及完成制定的操作。这种方式较为麻烦且需要记住一些命令
+  
+- JavaSE 基础图谱
+
+  - ![1599484197200](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599484197200.png)
+
 - 常用的DOS 命令
   - dir：列出当前目录下的文件
   - md：创建目录
@@ -26,9 +31,9 @@
     - echo HelloWorld > test.txt ：将 HelloWorld 追加写入到 test.txt 文件中，如果文件不存在则创建并写入
     - echo HelloWorld >> test.txt：将 HelloWorld 覆盖写入到 test.txt 文件中，如果文件不存在则创建并写入
 
-## 二、计算机编程语言介绍
+### 2、计算机编程语言介绍
 
-### 1、什么是计算机语言
+#### 1、什么是计算机语言
 
 - 语言：语言是人与人之间沟通的一种方式。例如：中国人与中国人之间使用普通话进行交流，而中国人与外国人交流就需要学习英语，或者外国人学习中文
 
@@ -45,14 +50,14 @@
   - .NET 跨语言的平台
   - Python、Scala ...
 
-### 2、Why is Java
+#### 2、Why is Java
 
 - ![1599217399882](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599217399882.png)
 - ![1599220279171](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599220279171.png)
 
-## 三、Java 语言概述
+### 3、Java 语言概述
 
-### 1、语言概述
+#### 1、语言概述
 
 - JAVA 语言是 SUN 公司在 1995 年推出的一门高级编程语言
 - JAVA 语言是一种面向 Internet 的编程语言，Java 一开始富有吸引力是因为 Java 程序可以在 Web 浏览器中运行。这些 Java 程序被称为 Java 小程序（applet），applet 使用现代的图形用户界面与 Web 用户进行交互。applet 内嵌在 HTML 代码中
@@ -73,7 +78,7 @@
   - 2018年3月,发布JDK 10.0,版本号也称为18.3
   - 2018年9月,发布JDK 11.0,版本号也称为18.9
 
-### 2、Java 技术体系平台
+#### 2、Java 技术体系平台
 
 - Java SE 标准版
   - 支持面向桌面级应用（例如 Windows 下的应用程序）的 Java 平台，提供了完善的 Java 核心 API，此版本以前称为 J2SE
@@ -84,7 +89,7 @@
 - Java Card
   - 支持一些 Java 小程序（Applets）运行在小内存设备上（例如智能卡等）上的平台
 
-### 3、Java 在各领域中的应用
+#### 3、Java 在各领域中的应用
 
 - 企业级应用
   - 主要是指大型企业中复杂的软件系统，各种类型的网站。Java 的安全机制以及它的跨平台优势，使它在分布式系统领域开发中有着广泛的应用（包括金融领域、电信领域、交通领域、电子商务等领域）
@@ -95,7 +100,7 @@
 - 移动领域应用
   - 主要表现在消费和嵌入式领域，是指在各种小型设备上使用，包括手机、机顶盒、PAD、汽车通信设备等
 
-### 4、Java 语言的诞生
+#### 4、Java 语言的诞生
 
 - ![1599223772366](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599223772366.png)
 
@@ -120,9 +125,9 @@
   - Java 语言是原生支持多线程的
     - 在 Java 语言中，线程是一种特殊的现象，它必须由 Thread 类或其子类来创建
 
-## 四、运行机制及运行过程
+### 4、运行机制及运行过程
 
-### 1、Java 语言的特点
+#### 1、Java 语言的特点
 
 - 特点一：面向对象
   - 两个基本的概念：类、对象
@@ -143,9 +148,9 @@
     - 垃圾回收在 Java 程序运行过程中自动进行，程序员无法精确控制和干预
     - **即使这样，如果代码编写有 bug ，Java 程序还是有可能会出现内存泄露和内存溢出的问题**
 
-## 五、Java 的环境搭建
+### 5、Java 的环境搭建
 
-### 1、什么是 JDK，JRE，JVM
+#### 1、什么是 JDK，JRE，JVM
 
 - JDK（Java 开发工具包）
   - JDK 是提供给 Java 开发人员使用的，其中包含了 Java 的开发工具，其中包括了 JRE。所以，只要安装了 JDK ，就不需要单独安装 JRE 了
@@ -162,7 +167,7 @@
 - 官网解释
   - ![1599238821367](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599238821367.png)
 
-### 2、下载并安装 JDK
+#### 2、下载并安装 JDK
 
 - 官方网址
   - [下载地址1](http://orcale.com)
@@ -203,7 +208,7 @@
 
   - source ./.bashrc
 
-## 六、HelloWorld
+### 6、HelloWorld
 
 - 新建名为 helloWorld 的 java 文件并编写以下代码
 
@@ -225,11 +230,8 @@
 
   - ![1599325561292](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599325561292.png)
 
-- 
 
-
-
-## 七、注解（Comment）
+### 7、注解（Comment）
 
 - 单行注释：可以在任意一行代码上使用 // 表示单行注释，在 // 后的所有内容都不会被 JVM 所解释执行
 
@@ -299,7 +301,7 @@
       }
       ```
 
-## 八、Java API 文档
+### 8、Java API 文档
 
 - API（应用程序编程入口），是 Java 提供的基本编程接口
 - Java 语言提供了大量的基础类，因此 Oracle 也为了这些基础类提供了相对应的 API 文档，用于告诉开发者如何使用这些类，以及这些类里面包含的方法
@@ -307,7 +309,7 @@
 - 页面分布
   - ![1599417000579](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599417000579.png)
 
-## 九、HelloWorld 总结
+### 9、HelloWorld 总结
 
 - 1、Java 程序是一个编写 -> 编译 -> 运行的过程
 
@@ -352,7 +354,7 @@
 
 - 6、编译的过程：在多个 class 类的情况下，编译时会生成一个或多个字节码文件，字节码文件的文件名与 java 原文件中的类名相同，生成几个取决于 java 原文件中有几个 class 类
 
-## 十、良好的编程风格
+### 10、良好的编程风格
 
 - 正确的注释和注释风格
 
@@ -390,7 +392,7 @@
       }
       ```
 
-## 十一、常用的 Java 开发工具
+### 11、常用的 Java 开发工具
 
 - 文档编辑工具
   - 记事本
@@ -402,20 +404,20 @@
   - eclipse
   - MyEclipse
 
-## 十二、练习
+### 12、练习
 
-### 1、JDK、JVM、JRE 三者之间的关系，以及 JDK、JRE 包含的主要结构有那些
+#### 1、JDK、JVM、JRE 三者之间的关系，以及 JDK、JRE 包含的主要结构有那些
 
 - JDK：JDK = JRE + Java 的开发工具（javac、java、javadoc）
 - JRE：JRE = JVM + JavaSE 核心类库
 
-### 2、为什么要配置 path 环境变量？如何配置？
+#### 2、为什么要配置 path 环境变量？如何配置？
 
 - 因为需要在任何一个文件路径下都可以执行 java 的开发工具，所以需要配置 Java 的环境变量
 - JAVA_HOME = bin 的上一层目录
 - path = %JAVA_HOME%\bin
 
-### 3、常用的几个命令操作都有那些？（至少四个）
+#### 3、常用的几个命令操作都有那些？（至少四个）
 
 - cd：切换目录
 - java
@@ -426,7 +428,116 @@
 - cd..：退回到上一层目录
 - cd/：退回到盘符
 
-### 4、创建一个类，使得运行后可以得到以下输出
+#### 4、创建一个类，使得运行后可以得到以下输出
+
+- ![1599470329892](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599470329892.png)
+
+- 代码
+  - ```java
+    public class chairMan{
+        public static void main(String args[]){
+            System.out.println("姓名：习大大\n\n性别：男\n家庭住址：北京")
+        }
+    }
+    ```
+
+- 编译
+
+  - ```shell
+    javac chairMan.java
+    java chariMan.class
+    ```
+
+##  二、变量与运算符
+
+### 1、关键字和保留字
+
+- 关键字（keyword）的定义和特点
+
+  - 定义：被 Java 语言赋予特殊的含义，用于做专门用途的字符串（单词）
+  - 特点：关键字中所有的字母都是小写
+  - [官方地址参考](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
+
+- 用于定义数据类型的关键字
+
+  - | class | interface | enum  | byte   | short |
+    | ----- | --------- | ----- | ------ | ----- |
+    | int   | long      | float | double | char  |
+    | void  | boolean   |       |        |       |
+
+- 用于定义流程控制的关键字
+
+  - | if     | else | switch | case  | default  |
+    | ------ | ---- | ------ | ----- | -------- |
+    | while  | do   | for    | break | continue |
+    | return |      |        |       |          |
+
+- 用于定义访问权限修饰符的关键字
+
+  - | private | protected | public |
+    | ------- | --------- | ------ |
+    |         |           |        |
+
+- 用于定义类、函数、变量修饰符的关键字
+
+  - | abstract | final | static | synchronized |
+    | -------- | ----- | ------ | ------------ |
+    |          |       |        |              |
+
+- 用于定义类与类之间的关键字
+
+  - | extends | implements |
+    | ------- | ---------- |
+    |         |            |
+
+- 用于定义建立实例及应用实例，判断的关键字
+
+  - | new  | this | super | instanceof |
+    | ---- | ---- | ----- | ---------- |
+    |      |      |       |            |
+
+- 用于异常处理的关键字
+
+  - | try  | catch | finally | throw | throws |
+    | ---- | ----- | ------- | ----- | ------ |
+    |      |       |         |       |        |
+
+- 用于包的关键字
+
+  - | import | package |
+    | ------ | ------- |
+    |        |         |
+
+- 其他修饰符关键字
+
+  - | native | strictfp | transient | volatile | assert |
+    | ------ | -------- | --------- | -------- | ------ |
+    |        |          |           |          |        |
+
+    
+
+- 用于定义数据类型值的字面值
+
+  - | true | false | null |
+    | ---- | ----- | ---- |
+    |      |       |      |
+
+    
+
+### 2、标识符
+
+### 3、变量
+
+#### 1、基本数据类型
+
+#### 2、基本数据类型变量间的转换
+
+#### 3、基本数据类型与 String 间的转换
+
+#### 4、进制与进制间的转换
 
 
 
+### 4、运算符
+
+### 5、程序流程控制
