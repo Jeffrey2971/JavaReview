@@ -11,9 +11,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_入门_01/src/chairMan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IO流与网络编程_16/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_IO流与网络编程_16/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_IO流与网络编程_16/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/Java_入门_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/Java 入门.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599216679243.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599217399882.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599220279171.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599223772366.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599226679925.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599226977214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599238304109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599238821367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599325561292.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/Note/images/1599417000579.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_入门_01/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_入门_01/src/helloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_IO流与网络编程_16/test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,32 +62,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.097751714" />
     <property name="project.structure.side.proportion" value="0.3894189" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java_入门_01/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Data/Note" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloWorld" />
+  <component name="RunManager">
+    <configuration name="chairMan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chairMan" />
       <module name="Java_入门_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Java_IO流与网络编程_16" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,8 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.helloWorld" />
+        <item itemvalue="Application.chairMan" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +173,7 @@
       <workItem from="1599403425815" duration="219000" />
       <workItem from="1599404097345" duration="220000" />
       <workItem from="1599404372229" duration="1243000" />
-      <workItem from="1599407649206" duration="2754000" />
+      <workItem from="1599407649206" duration="7473000" />
     </task>
     <task id="LOCAL-00001" summary="JavaReview">
       <created>1599136997441</created>
@@ -493,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599414837949</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="JavaReview">
+      <created>1599418958122</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1599418958122</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,14 +539,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="JavaReview" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="192" y="27" width="1024" height="845" key="#Project_Structure" timestamp="1599243475515">
+    <state x="192" y="27" width="1024" height="845" key="#Project_Structure" timestamp="1599469561332">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="192" y="27" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599243475515" />
-    <state x="178" y="120" width="1084" height="746" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599325780386">
+    <state x="192" y="27" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599469561332" />
+    <state x="174" y="78" width="1084" height="807" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599469425033">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="178" y="120" width="1084" height="746" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873@0.27.1440.873" timestamp="1599325780386" />
+    <state x="174" y="78" width="1084" height="807" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873@0.27.1440.873" timestamp="1599469425033" />
     <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl" timestamp="1599245883984">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -541,34 +559,34 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599134201395" />
-    <state width="666" height="214" key="GridCell.Tab.0.bottom" timestamp="1599414828094">
+    <state width="666" height="214" key="GridCell.Tab.0.bottom" timestamp="1599469575199">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="214" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1599414828094" />
-    <state width="666" height="214" key="GridCell.Tab.0.center" timestamp="1599414828092">
+    <state width="666" height="214" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1599469575199" />
+    <state width="666" height="214" key="GridCell.Tab.0.center" timestamp="1599469575197">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="214" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1599414828092" />
-    <state width="666" height="214" key="GridCell.Tab.0.left" timestamp="1599414828090">
+    <state width="666" height="214" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1599469575197" />
+    <state width="666" height="214" key="GridCell.Tab.0.left" timestamp="1599469575196">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="214" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1599414828090" />
-    <state width="666" height="214" key="GridCell.Tab.0.right" timestamp="1599414828093">
+    <state width="666" height="214" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1599469575196" />
+    <state width="666" height="214" key="GridCell.Tab.0.right" timestamp="1599469575198">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="214" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1599414828093" />
+    <state width="666" height="214" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1599469575198" />
     <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog" timestamp="1599396516304">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog/0.27.1440.873@0.27.1440.873" timestamp="1599396516304" />
-    <state x="101" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599405273010">
+    <state x="101" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599469529730">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599405273010" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599414841797">
+    <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599469529730" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599418960955">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599414841797" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599418960955" />
     <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -577,13 +595,13 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="472" y="351" width="486" height="223" key="git4idea.ui.GitResetDialog/0.27.1440.873@0.27.1440.873" timestamp="1599147372964" />
-    <state x="693" y="27" width="747" height="873" key="new project wizard" timestamp="1599138537830">
+    <state x="693" y="27" width="747" height="873" key="new project wizard" timestamp="1599469526092">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="693" y="27" width="747" height="873" key="new project wizard/0.27.1440.873@0.27.1440.873" timestamp="1599138537830" />
-    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1599242464747">
+    <state x="693" y="27" width="747" height="873" key="new project wizard/0.27.1440.873@0.27.1440.873" timestamp="1599469526092" />
+    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1599469304662">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup/0.27.1440.873@0.27.1440.873" timestamp="1599242464747" />
+    <state x="383" y="212" width="672" height="678" key="search.everywhere.popup/0.27.1440.873@0.27.1440.873" timestamp="1599469304662" />
   </component>
 </project>
