@@ -572,14 +572,18 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog/0.27.1440.873@0.27.1440.873" timestamp="1599396516304" />
+    <state x="0" y="90" width="1430" height="745" key="RollbackChangesDialog" timestamp="1599490152976">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="0" y="90" width="1430" height="745" key="RollbackChangesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599490152976" />
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor" timestamp="1599469529730">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599469529730" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599487808792">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599490387457">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599487808792" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599490387457" />
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599470226175">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
