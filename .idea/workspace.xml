@@ -58,11 +58,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Java_入门_01/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Data/Note" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java_入门_01/src" />
     </key>
   </component>
   <component name="RunManager">
@@ -157,28 +157,9 @@
       <workItem from="1599403425815" duration="219000" />
       <workItem from="1599404097345" duration="220000" />
       <workItem from="1599404372229" duration="1243000" />
-      <workItem from="1599407649206" duration="9041000" />
-    </task>
-    <task id="LOCAL-00002" summary="JavaReview">
-      <created>1599138413026</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1599138413026</updated>
-    </task>
-    <task id="LOCAL-00003" summary="JavaReview">
-      <created>1599138417944</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1599138417944</updated>
-    </task>
-    <task id="LOCAL-00004" summary="JavaReview">
-      <created>1599142228979</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1599142228979</updated>
+      <workItem from="1599407649206" duration="9352000" />
+      <workItem from="1599488885512" duration="128000" />
+      <workItem from="1599489070980" duration="1021000" />
     </task>
     <task id="LOCAL-00005" summary="JavaReview">
       <created>1599142488500</created>
@@ -502,7 +483,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599470043817</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="JavaReview">
+      <created>1599487804257</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1599487804257</updated>
+    </task>
+    <task id="LOCAL-00052" summary="JavaReview">
+      <created>1599489017420</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1599489017424</updated>
+    </task>
+    <task id="LOCAL-00053" summary="JavaReview">
+      <created>1599490141691</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1599490141691</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,18 +576,18 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599469529730" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599470047439">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599487808792">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599470047439" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599487808792" />
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599470226175">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1440.873@0.27.1440.873" timestamp="1599470226175" />
-    <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599154314708">
+    <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599489015520">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1440.873@0.27.1440.873" timestamp="1599154314708" />
+    <state x="510" y="128" width="409" height="668" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1440.873@0.27.1440.873" timestamp="1599489015520" />
     <state x="472" y="351" width="486" height="223" key="git4idea.ui.GitResetDialog" timestamp="1599147372964">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
