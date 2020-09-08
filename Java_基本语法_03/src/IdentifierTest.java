@@ -59,3 +59,31 @@ class 1Hello{
 class H ello{
 }
 */
+
+// 变量命名规范
+class TestOne{
+    public static void main(String[] args){
+        int myStudentCode = 1001;
+        String myFavoriteFoot = "dumplings、noodle、shrimp";
+
+        System.out.println(myStudentCode);
+        System.out.println(myFavoriteFoot);
+    }
+}
+
+// 常量命名规范
+class TestTwo{
+    public static void main(String[] args) {
+        String PREFIX_MAX_NUMBER = "10000";
+        System.out.println("最大的数字：" + PREFIX_MAX_NUMBER);
+    }
+}
+
+// 由于 Java 使用的是 unicode 字符集编码，所以标识符可以取中文名
+class 你好{
+    public static void main(String[] args) {
+        int 学号 = 1002;
+        System.out.println("你好，世界！");
+        System.out.println(学号);
+    }
+}

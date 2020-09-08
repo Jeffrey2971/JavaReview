@@ -16,7 +16,7 @@
   
 - JavaSE 基础图谱
 
-  - ![1599484197200](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599484197200.png)
+  - ![1599484197200](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599484197200.png)
 
 - 常用的DOS 命令
   - dir：列出当前目录下的文件
@@ -42,7 +42,7 @@
   - 指令以二进制代码形式存在
 - 第二代语言，汇编语言
   - 使用助记符表一条机器指令
-  - ![1599216679243](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599216679243.png)
+  - ![1599216679243](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599216679243.png)
 - 第三代语言，高级语言
   - C、Pascal、Fortran 面向过程的语言
   - C++  ，面向过程/面向对象
@@ -52,8 +52,8 @@
 
 #### 2、Why is Java
 
-- ![1599217399882](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599217399882.png)
-- ![1599220279171](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599220279171.png)
+- ![1599217399882](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599217399882.png)
+- ![1599220279171](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599220279171.png)
 
 ### 3、Java 语言概述
 
@@ -102,7 +102,7 @@
 
 #### 4、Java 语言的诞生
 
-- ![1599223772366](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599223772366.png)
+- ![1599223772366](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599223772366.png)
 
 - 5、Java 语言的主要特性
 
@@ -137,10 +137,10 @@
 - 特点三：跨平台性
   - 跨平台性：通过 Java 语言编写的应用程序在不同的系统平台上都可以运行
   - 原理：只要在需要运行 Java 应用程序的操作系统上，先安装一个 Java 虚拟机即可，由 JVM 来负责 Java 程序在该系统中的运行
-  - ![1599226679925](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599226679925.png)
+  - ![1599226679925](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599226679925.png)
 - Java 的两种核心机制
   - Java 虚拟机
-    - ![1599226977214](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599226977214.png)
+    - ![1599226977214](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599226977214.png)
   - 垃圾回收机制
     - 不再使用的内存空间应被回收：垃圾回收
       - 在 C/C++ 等语言中，有程序员负责回收无用的内存空间
@@ -163,9 +163,9 @@
 - 简单而言，使用 JDK 的开发工具完成 Java 程序后交给 JRE 运行
   - JDK = JRE + 开发工具集（例如 javac 编译工具等等）
   - JRE = JVM + JAVA SE 标准类库
-  - ![1599238304109](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599238304109.png)
+  - ![1599238304109](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599238304109.png)
 - 官网解释
-  - ![1599238821367](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599238821367.png)
+  - ![1599238821367](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599238821367.png)
 
 #### 2、下载并安装 JDK
 
@@ -228,7 +228,7 @@
 
 - 执行完以上命令之后会发现在文件夹下自动生成了 helloWorld.class 文件
 
-  - ![1599325561292](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599325561292.png)
+  - ![1599325561292](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599325561292.png)
 
 
 ### 7、注解（Comment）
@@ -307,7 +307,7 @@
 - Java 语言提供了大量的基础类，因此 Oracle 也为了这些基础类提供了相对应的 API 文档，用于告诉开发者如何使用这些类，以及这些类里面包含的方法
 - [Jdk API 文档下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - 页面分布
-  - ![1599417000579](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599417000579.png)
+  - ![1599417000579](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599417000579.png)
 
 ### 9、HelloWorld 总结
 
@@ -430,7 +430,7 @@
 
 #### 4、创建一个类，使得运行后可以得到以下输出
 
-- ![1599470329892](/home/jeffrey/IdeaProjects/JavaReview/Java_入门_01/Note/images/1599470329892.png)
+- ![1599470329892](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599470329892.png)
 
 - 代码
   - ```java
@@ -607,23 +607,95 @@
 ### 3、Java 中的名称命名规范
 
 - 包名：多单词组成时所有字母都小写（xxxyyyzzz）
+
 - 类名、接口名：多单词组成时，所有单词的首字母大写（XxxYyyZzz）
+
+  - ```java
+    class TestThisCake{
+        
+    }
+    ```
+
 - 变量名、方法名：多单词组成时，第一个单词首字母小写，第二个单词开始每个单词首写字母大写（xxxYyyZzz）
+
+  - ```java
+    class Test{
+        public static void main(String[] args){
+            int myStudentCode = 1001;
+            String myFavoriteFoot = "dumplings、noodle、shrimp";
+       
+                System.out.println(myStudentCode);
+            	System.out.println(myFavoriteFoot);
+        }
+    }
+    ```
+
+  - 
+
 - 常量名：所有字母都大写，多单词时每个单词用下划线链接（XXX_YYY_ZZZ）
+
+  - ```java
+    // 常量命名规范
+    class TestTwo{
+      public static void main(String[] args) {
+            String PREFIX_MAX_NUMBER = "10000";
+            System.out.println("最大的数字：" + PREFIX_MAX_NUMBER);
+        }
+    }
+    ```
+    
+  - 
+
 - 注意事项
+
+  - 就算不遵循也不会发生任何错误，但是最好按时按照规范编写
+  
   - 在起名字时，为了提高代码可读性应尽量有意义，起到“见名知意”的作用
+  
   - Java 采用 Unicode 字符集，因此标识符可以可用汉子声明，但不建议使用
-- 代码演示
+  
+    - ```java
+      // 由于 Java 使用的是 unicode 字符集编码，所以标识符可以取中文名
+      class 你好{
+          public static void main(String[] args) {
+              int 学号 = 1002;
+              System.out.println("你好，世界！");
+              System.out.println(学号);
+          }
+      }
+      ```
+
+
 
 ### 4、变量
 
-#### 1、基本数据类型
+#### 1、变量的概念
 
-#### 2、基本数据类型变量间的转换
+- 内存中的一个存储区域
+  - 该区域的数据可以在同一类型范围内不断变化
+- 变量是程序中最基本的存储单元。包含了变量类型、变量名和存储的值
 
-#### 3、基本数据类型与 String 间的转换
+#### 2、变量的作用
 
-#### 4、进制与进制间的转换
+- 用于在内存中保存数据
+
+#### 3、使用变量的注意事项
+
+- Java 中每个变量必须先声明，后使用
+- 使用变量名来访问这块区域的数据
+- 变量的作用域：其定义所在的一对 {} 内
+- 变量只有在其作用域内生效
+- 同一个作用域内，不能定义重名的变量
+
+#### 4、基本数据类型
+
+#### 5、基本数据类型变量间的转换
+
+#### 6、基本数据类型与 String 间的转换
+
+#### 7、进制与进制间的转换
+
+
 
 ### 4、运算符
 
