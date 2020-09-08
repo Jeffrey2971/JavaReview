@@ -52,8 +52,8 @@
 
 #### 2、Why is Java
 
-- ![1599217399882](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599217399882.png)
-- ![1599220279171](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599220279171.png)
+- ![1599556601940](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556601940.png)
+- ![1599556639861](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556639861.png)
 
 ### 3、Java 语言概述
 
@@ -102,7 +102,7 @@
 
 #### 4、Java 语言的诞生
 
-- ![1599223772366](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599223772366.png)
+- ![1599556675559](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556675559.png)
 
 - 5、Java 语言的主要特性
 
@@ -137,10 +137,11 @@
 - 特点三：跨平台性
   - 跨平台性：通过 Java 语言编写的应用程序在不同的系统平台上都可以运行
   - 原理：只要在需要运行 Java 应用程序的操作系统上，先安装一个 Java 虚拟机即可，由 JVM 来负责 Java 程序在该系统中的运行
-  - ![1599226679925](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599226679925.png)
+  - ![1599556714956](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556714956.png)
 - Java 的两种核心机制
   - Java 虚拟机
-    - ![1599226977214](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599226977214.png)
+    - ![1599556748743](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556748743.png)
+    - ![1599556774462](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556774462.png)
   - 垃圾回收机制
     - 不再使用的内存空间应被回收：垃圾回收
       - 在 C/C++ 等语言中，有程序员负责回收无用的内存空间
@@ -163,9 +164,9 @@
 - 简单而言，使用 JDK 的开发工具完成 Java 程序后交给 JRE 运行
   - JDK = JRE + 开发工具集（例如 javac 编译工具等等）
   - JRE = JVM + JAVA SE 标准类库
-  - ![1599238304109](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599238304109.png)
+  - ![1599556854971](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556854971.png)
 - 官网解释
-  - ![1599238821367](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599238821367.png)
+  - ![1599556817609](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556817609.png)
 
 #### 2、下载并安装 JDK
 
@@ -228,7 +229,7 @@
 
 - 执行完以上命令之后会发现在文件夹下自动生成了 helloWorld.class 文件
 
-  - ![1599325561292](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599325561292.png)
+  - ![1599556922757](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556922757.png)
 
 
 ### 7、注解（Comment）
@@ -307,7 +308,7 @@
 - Java 语言提供了大量的基础类，因此 Oracle 也为了这些基础类提供了相对应的 API 文档，用于告诉开发者如何使用这些类，以及这些类里面包含的方法
 - [Jdk API 文档下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - 页面分布
-  - ![1599417000579](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599417000579.png)
+  - ![1599556977956](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599556977956.png)
 
 ### 9、HelloWorld 总结
 
