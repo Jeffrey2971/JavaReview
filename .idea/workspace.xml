@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
+      <change afterPath="$PROJECT_DIR$/Java_基本语法_03/src/DataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Note/Java 入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_基本语法_03/VariableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_基本语法_03/VariableTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +66,9 @@
       <recent name="$PROJECT_DIR$/Java_入门_01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestForThree">
+  <component name="RunManager" selected="Application.VariableTest">
     <configuration name="IdentifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IdentifierTest" />
-      <module name="Java_基本语法_03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestForThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestForThree" />
       <module name="Java_基本语法_03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,13 +83,6 @@
     </configuration>
     <configuration name="VariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VariableTest" />
-      <module name="Java_基本语法_03" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="age_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="age_" />
       <module name="Java_基本语法_03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,14 +150,10 @@
       <item itemvalue="Application.IdentifierTest" />
       <item itemvalue="Application.TestTwo" />
       <item itemvalue="Application.VariableTest" />
-      <item itemvalue="Application.age_" />
-      <item itemvalue="Application.TestForThree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestForThree" />
         <item itemvalue="Application.VariableTest" />
-        <item itemvalue="Application.age_" />
         <item itemvalue="Application.TestTwo" />
         <item itemvalue="Application.IdentifierTest" />
       </list>
@@ -202,14 +183,7 @@
       <workItem from="1599488885512" duration="128000" />
       <workItem from="1599489070980" duration="7478000" />
       <workItem from="1599543233678" duration="1934000" />
-      <workItem from="1599553033690" duration="6630000" />
-    </task>
-    <task id="LOCAL-00021" summary="JavaReview">
-      <created>1599149639201</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1599149639201</updated>
+      <workItem from="1599553033690" duration="10971000" />
     </task>
     <task id="LOCAL-00022" summary="JavaReview">
       <created>1599149781053</created>
@@ -547,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599564528727</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="JavaReview">
+      <created>1599565478027</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1599565478027</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,10 +560,10 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="192" y="27" width="1024" height="845" key="#Project_Structure/0.27.1440.873@0.27.1440.873" timestamp="1599469561332" />
-    <state x="174" y="31" width="1084" height="869" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599557868179">
+    <state x="174" y="27" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599566270241">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="174" y="31" width="1084" height="869" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873@0.27.1440.873" timestamp="1599557868179" />
+    <state x="174" y="27" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.873@0.27.1440.873" timestamp="1599566270241" />
     <state x="498" y="157" width="424" height="610" key="FileChooserDialogImpl" timestamp="1599245883984">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -623,10 +604,10 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599553002140" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599564532795">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599565481336">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599564532795" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599565481336" />
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599470226175">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -663,13 +644,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="3" />
+          <line>56</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java</url>
           <line>45</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

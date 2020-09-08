@@ -729,7 +729,9 @@
 
     - ![1599564264436](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599564264436.png)
 
-  - 3、变量都定义在其作用域内，作用域内，它是有效的。换句话说，出了作用域后变量将无法使用
+- 3、变量都定义在其作用域内，作用域内，它是有效的。换句话说，出了作用域后变量将无法使用
+
+  - 错误写法
 
     - ```java
       public class VariableTest {
@@ -747,7 +749,64 @@
 
     - ![1599564984416](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599564984416.png)
 
+- 4、同一个作用域内，不可以声明两个相同的变量名
+
+  - 错误写法
+
+    - ```java
+      class TestForThree{
+          public static void main(String[] args) {
+              int number = 5;
+              long number = 5;
+          }
+      }
+      ```
+
+    - ![1599565399160](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599565399160.png)
+
 #### 4、基本数据类型
+
+##### 1、变量的分类，按数据类型
+
+- 对于每一种数据都定义了明确的具体数据类型（强类型语言），在内存中分配了不同大小的空间
+
+- 基本数据类型
+
+  - | 类型  | 占用存储空间   | 表数范围       |
+    | ----- | -------------- | -------------- |
+    | byte  | 1 字节 = 8 Bit | -128 ~ 127     |
+    | short | 2 字节         | -2^15 ~ 2^15-1 |
+    | int   | 4字节          | -2^31 ~ 2^31-1 |
+    | long  | 8字节          | -2^63 ~ 2^63-1 |
+
+    
+
+  - Java 各整数类型有固定的表述范围和字段长度，不受具体 OS 的影响，以确保 Java 程序的可移植性
+
+  - Java 的整形类型默认为 int 型，声明 long 常量后必须添加 I 或 L
+
+  - Java 程序中变量通常声明为 int 型，除非不足以表示较大的数才使用 long 型
+
+  - 整形：byte \ int \ long \ short
+
+  - 浮点型：float \ double
+
+  - 字符型：char
+
+  - 布尔型：boolean
+
+- 引用数据类型
+
+  - 类：class
+  - 接口：interface
+  - 数组：array
+
+- ![1599568769445](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599568769445.png)
+
+##### 2、变量在类中的声明的位置
+
+- 成员变量
+- 局部变量
 
 #### 5、基本数据类型变量间的转换
 
