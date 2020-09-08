@@ -688,6 +688,38 @@
 - 变量只有在其作用域内生效
 - 同一个作用域内，不能定义重名的变量
 
+#### 4、变量的使用
+
+- 1、Java 定义变量的格式：数据类型 变量名 = 变量值;
+
+  - ```java
+    public class VariableTest {
+        public static void main(String[] args) {
+            // 变量的定义
+            int myAge = 0;
+            // 变量的使用
+            System.out.println(myAge);
+    
+            // 先声明
+            int myNumber;
+            myNumber = 101;
+            // 后赋值
+            System.out.println(myNumber);
+        }
+    }
+    ```
+
+- 2、Java 程序是按照先后顺序执行，变量需要先加载到内存才能被后续的代码使用。变量必须先声明，后使用
+
+  - 错误的写法
+
+    - ```java
+      System.out.println(myNumber);
+      int myNumber = 101;
+      ```
+
+    - ![1599557831552](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599557831552.png)
+
 #### 4、基本数据类型
 
 #### 5、基本数据类型变量间的转换
