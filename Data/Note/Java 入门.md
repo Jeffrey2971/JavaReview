@@ -787,7 +787,7 @@
 
   - Java 程序中变量通常声明为 int 型，除非不足以表示较大的数才使用 long 型
 
-  - 整形：byte \ int \ long \ short
+  - 整形：byte（ 1 字节 = 8 Bit ） \ short（ 2 字节 ） \ int （ 4 字节 ）\ long （8 字节）
 
   - 浮点型：float \ double
 
