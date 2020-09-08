@@ -729,6 +729,24 @@
 
     - ![1599564264436](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599564264436.png)
 
+  - 3、变量都定义在其作用域内，作用域内，它是有效的。换句话说，出了作用域后变量将无法使用
+
+    - ```java
+      public class VariableTest {
+          public static void main(String[] args) {
+              // 无法直接其使用其他方法中的变量
+              System.out.println(myClass);
+          }
+      
+          public void method(){
+              // 这里的 myClass 变量只能在 method() 这个方法中使用
+              int myClass = 1;
+          }
+      }
+      ```
+
+    - ![1599564984416](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599564984416.png)
+
 #### 4、基本数据类型
 
 #### 5、基本数据类型变量间的转换
