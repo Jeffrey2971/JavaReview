@@ -11,11 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d147f0e-646b-4709-beea-90a99253e423" name="Default Changelist" comment="JavaReview">
-      <change afterPath="$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/Note/Java 入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Note/Java 入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_基本语法_03/src/IdentifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_基本语法_03/src/IdentifierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_基本语法_03/你好.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_基本语法_03/你好.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <recent name="$PROJECT_DIR$/Java_入门_01/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.age_">
+  <component name="RunManager" selected="Application.VariableTest">
     <configuration name="IdentifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IdentifierTest" />
       <module name="Java_基本语法_03" />
@@ -171,8 +169,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.age_" />
         <item itemvalue="Application.VariableTest" />
+        <item itemvalue="Application.age_" />
         <item itemvalue="Application.TestTwo" />
         <item itemvalue="Application.IdentifierTest" />
         <item itemvalue="Application.chairMan" />
@@ -203,14 +201,7 @@
       <workItem from="1599488885512" duration="128000" />
       <workItem from="1599489070980" duration="7478000" />
       <workItem from="1599543233678" duration="1934000" />
-      <workItem from="1599553033690" duration="4674000" />
-    </task>
-    <task id="LOCAL-00019" summary="JavaReview">
-      <created>1599149536946</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1599149536946</updated>
+      <workItem from="1599553033690" duration="5589000" />
     </task>
     <task id="LOCAL-00020" summary="JavaReview">
       <created>1599149594181</created>
@@ -548,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599556999892</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="JavaReview">
+      <created>1599562640649</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1599562640650</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,22 +594,22 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="367" y="94" width="696" height="736" key="Github.UntrackedFilesDialog/0.27.1440.873@0.27.1440.873" timestamp="1599134201395" />
-    <state width="666" height="211" key="GridCell.Tab.0.bottom" timestamp="1599562450089">
+    <state width="666" height="210" key="GridCell.Tab.0.bottom" timestamp="1599564120807">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="211" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1599562450089" />
-    <state width="666" height="211" key="GridCell.Tab.0.center" timestamp="1599562450088">
+    <state width="666" height="210" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1599564120807" />
+    <state width="666" height="210" key="GridCell.Tab.0.center" timestamp="1599564120806">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="211" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1599562450088" />
-    <state width="666" height="211" key="GridCell.Tab.0.left" timestamp="1599562450088">
+    <state width="666" height="210" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1599564120806" />
+    <state width="666" height="210" key="GridCell.Tab.0.left" timestamp="1599564120806">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="211" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1599562450088" />
-    <state width="666" height="211" key="GridCell.Tab.0.right" timestamp="1599562450088">
+    <state width="666" height="210" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1599564120806" />
+    <state width="666" height="210" key="GridCell.Tab.0.right" timestamp="1599564120807">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state width="666" height="211" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1599562450088" />
+    <state width="666" height="210" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1599564120807" />
     <state x="303" y="196" width="824" height="532" key="IDE.errors.dialog" timestamp="1599396516304">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -624,10 +622,10 @@
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="101" y="27" width="1280" height="845" key="SettingsEditor/0.27.1440.873@0.27.1440.873" timestamp="1599553002140" />
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599557003107">
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1599562643473">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599557003107" />
+    <state x="315" y="197" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1440.873@0.27.1440.873" timestamp="1599562643473" />
     <state x="100" y="125" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599470226175">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
@@ -661,6 +659,11 @@
           <url>file://$PROJECT_DIR$/Java_基本语法_03/src/IdentifierTest.java</url>
           <line>57</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_基本语法_03/src/VariableTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -711,7 +711,7 @@
 
 - 2、Java 程序是按照先后顺序执行，变量需要先加载到内存才能被后续的代码使用。变量必须先声明，后使用
 
-  - 错误的写法
+  - 错误的写法一，使用变量之间必须先声明变量
 
     - ```java
       System.out.println(myNumber);
@@ -719,6 +719,15 @@
       ```
 
     - ![1599557831552](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599557831552.png)
+
+  - 错误写法二，定义的变量没有默认值，所以在使用变量之前必须先定义好变量及其值
+
+    - ```java
+      int myNumber;
+      System.out.println(myNumber)
+      ```
+
+    - ![1599564264436](/home/jeffrey/IdeaProjects/JavaReview/Data/Note/images/1599564264436.png)
 
 #### 4、基本数据类型
 

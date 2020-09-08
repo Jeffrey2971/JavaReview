@@ -21,11 +21,24 @@ public class VariableTest {
 
 }
 
+
 /*
+使用之前未被定义过
 class TestForOne{
     public static void main(String[] args) {
         System.out.println(myNumber);
         int myNumber = 101;
+    }
+}
+*/
+
+
+/*
+使用之间没有被赋值过（申明了，但并没有赋值）
+class TestForTwo{
+    public static void main(String[] args) {
+        int myNumber;
+        System.out.println(myNumber);
     }
 }
 */
