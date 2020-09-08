@@ -14,6 +14,7 @@
  *   浮点型：float \ double
  *   字符型：char
  *   布尔型：boolean
+ * 通常定义整形变量时，使用 int 型即可
  *
  * 引用数据类型
  *   类：class
@@ -24,6 +25,8 @@ public class DataType {
     public static void main(String[] args) {
         methodByte();
         methodShort();
+        methodInt();
+        methodLong();
     }
 
     /**
@@ -62,9 +65,14 @@ public class DataType {
     }
 
     /**
-     *
+     * long 类型范围：-2^63 ~ 2^63-1（-9223372036854775808 ～ 9223372036854775807）,声明 long 型数据类型时需要在尾部添加 l 或 L
      */
     public static void methodLong(){
+        long l1 = -9223372036854775808L;
+        long l2 = 9223372036854775807L;
+        // l2 = 9223372036854775808L; 编译不通过，long 类型最大只能到 9223372036854775807L
+        System.out.println(l1);
+        System.out.println(l2);
 
     }
 
