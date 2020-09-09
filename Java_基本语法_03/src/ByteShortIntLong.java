@@ -7,21 +7,11 @@
 
 /**
  * 1、变量的分类，按数据类型
- * 对于每一种数据都定义了明确的具体数据类型（强类型语言），在内存中分配了不同大小的空间
- *
  * 基本数据类型
- *   整形：byte（ 1 字节 = 8 Bit ） \ short（ 2 字节 ） \ int （ 4 字节 ）\ long （8 字节）
+ * 整形：byte（ 1 字节 = 8 Bit ） \ short（ 2 字节 ） \ int （ 4 字节 ）\ long （8 字节）
  *   浮点型：float \ double
- *   字符型：char
- *   布尔型：boolean
- * 通常定义整形变量时，使用 int 型即可
- *
- * 引用数据类型
- *   类：class
- *   接口：interface
- *   数组：array
  */
-public class DataType {
+public class ByteShortIntLong {
     public static void main(String[] args) {
         methodByte();
         methodShort();
@@ -57,9 +47,9 @@ public class DataType {
      * int 范围：-2^32 ~ 2^31-1（-2147483648 ～ 2147483647）
      */
     public static void methodInt(){
-       int i1 = -2147483648;
-       int i2 = 2147483647;
-       // i2 = 2147483648; 编译不通过，int 类型最大只能到 2147483647
+        int i1 = -2147483648;
+        int i2 = 2147483647;
+        // i2 = 2147483648; 编译不通过，int 类型最大只能到 2147483647
         System.out.println(i1);
         System.out.println(i2);
     }
@@ -75,7 +65,4 @@ public class DataType {
         System.out.println(l2);
 
     }
-
-
 }
-
